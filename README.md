@@ -8,6 +8,8 @@ Tools:
 • Maven
 
 
+
+
 Tested functionalities:
 
 • Registration form 
