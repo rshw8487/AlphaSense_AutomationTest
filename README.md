@@ -1,6 +1,6 @@
 # AlphaSense Automation test for automationpractice.com site
 
-Tools:
+#Tools:
 
 • Selenium Web Driver
 
@@ -13,7 +13,7 @@ Tools:
 
 
 
-Tested functionalities:
+#Tested functionalities:
 
 • Registration form 
 
