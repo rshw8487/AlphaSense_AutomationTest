@@ -1,10 +1,13 @@
-# AlphaSense Automation test assessment for automationpractice.com site
+# AlphaSense Automation test for automationpractice.com site
 
 Tools:
 
 • Selenium Web Driver
+
 • Java
+
 • TestNG
+
 • Maven
 
 
@@ -16,6 +19,8 @@ Tested functionalities:
 
 • Login form
 
-• Shopping workflow and payment 
+• Shopping workflow 
+
+• Payment and Order History
 
 
