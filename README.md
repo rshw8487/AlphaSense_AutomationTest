@@ -1,6 +1,6 @@
 # AlphaSense Automation test for automationpractice.com site
 
-#Tools:
+# Tools:
 
 • Selenium Web Driver
 
@@ -11,9 +11,7 @@
 • Maven
 
 
-
-
-#Tested functionalities:
+# Tested functionalities:
 
 • Registration form 
 
